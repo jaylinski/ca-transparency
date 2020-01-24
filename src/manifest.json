@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "CA Transparency",
+  "version": "0.1.0",
+  "description": "__MSG_extensionDescription__",
+  "homepage_url": "https://github.com/jaylinski/ca-transparency",
+  "content_security_policy": "default-src 'self'",
+  "permissions": ["*://*/*", "webRequest", "webRequestBlocking", "activeTab", "storage"],
+  "optional_permissions": ["notifications"],
+  "default_locale": "en",
+  "icons": {
+    "128": "assets/logo.svg"
+  },
+  "browser_action": {
+    "default_icon": "assets/logo.svg",
+    "default_title": "__MSG_extensionName__",
+    "default_popup": "pages/popup/index.html"
+  },
+  "options_ui": {
+    "page": "pages/options/index.html"
+  },
+  "background": {
+    "page": "pages/background/index.html"
+  }
+}

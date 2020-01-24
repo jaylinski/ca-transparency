@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "CA Transparency"
+  },
+  "extensionDescription": {
+    "message": "Get a detailed insight on certificate authorities (CAs) you trust."
+  },
+  "navDashboard": {
+    "message": "Dashboard"
+  },
+  "navOptions": {
+    "message": "Options"
+  },
+  "footerHelp": {
+    "message": "Help"
+  },
+  "helpHeadline": {
+    "message": "Help"
+  },
+  "helpText": {
+    "message": "You need help? Try one of the following links:"
+  }
+}

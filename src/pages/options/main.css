@@ -1,0 +1,9 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+pre {
+  font-size: 70%;
+}

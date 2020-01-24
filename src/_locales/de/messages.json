@@ -1,0 +1,23 @@
+{
+  "extensionName": {
+    "message": "CA Transparency"
+  },
+  "extensionDescription": {
+    "message": "Zeigt detaillierte Informationen der Certificate Authorities (CAs) an."
+  },
+  "navDashboard": {
+    "message": "Dashboard"
+  },
+  "navOptions": {
+    "message": "Optionen"
+  },
+  "footerHelp": {
+    "message": "Hilfe"
+  },
+  "helpHeadline": {
+    "message": "Hilfe"
+  },
+  "helpText": {
+    "message": "Du suchts Hilfe? Probier es mit einem der folgenden Links:"
+  }
+}
